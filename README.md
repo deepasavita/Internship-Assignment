@@ -1,5 +1,6 @@
 
-````
+
+````markdown
 # Web Development Internship Assignment – Adhyatmik
 
 A web-based project submission for the **Adhyatmik Web Development Internship**.  
@@ -92,5 +93,8 @@ Passionate about Web Development
 [![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github\&style=flat-square)](https://github.com/deepasavita)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
 
-````
+```
+
+---
+
 
