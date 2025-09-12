@@ -1,7 +1,5 @@
-
-
-````markdown
-# Web Development Internship Assignment – Adhyatmik
+---
+# 🌐 Web Development Internship Assignment – Adhyatmik
 
 A web-based project submission for the **Adhyatmik Web Development Internship**.  
 This project demonstrates a PHP/MySQL **Product Catalog** (Backend) and a **Featured Product Section** (Frontend) using HTML/CSS/JS.
@@ -9,41 +7,38 @@ This project demonstrates a PHP/MySQL **Product Catalog** (Backend) and a **Feat
 ---
 
 ## 🔧 Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP  
-- **Database**: MySQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
 
 ---
 
 ## 🚀 Features
 
-### **Task 1 – Product Catalog (Backend)**
+### ✅ Task 1 – Product Catalog (Backend)
+- MySQL `products` table with fields: `id`, `name`, `price`, `category`, `created_at`
+- Display product list in a clean grid layout
+- Add new product via form with validation
+- Category filter dropdown
+- Prices formatted in **₹ INR**
+- Secure database queries using **prepared statements**
 
-- MySQL `products` table with fields: `id`, `name`, `price`, `category`, `created_at`  
-- Display product list in a clean grid layout  
-- Add new product via form with validation  
-- Category filter dropdown  
-- Prices formatted in **INR**  
-- Secure database queries using **prepared statements**  
-
-### **Task 2 – Featured Product Section (Frontend)**
-
-- Product card showing image, name, description, rating, price, stock, quantity selector, and "Buy Now" button  
-- Light & Dark mode toggle  
-- Heart icon for favorites  
-- Quantity increment/decrement  
-- Modal simulation for Buy Now  
-- Fully responsive design  
+### ✅ Task 2 – Featured Product Section (Frontend)
+- Product card with image, name, description, rating, price, stock, quantity selector, and **Buy Now** button
+- Light & Dark mode toggle
+- Heart icon for favorites
+- Quantity increment/decrement buttons
+- Modal simulation for **Buy Now**
+- Fully responsive design
 
 ---
 
 ## 📂 Project Structure
+```
 
-```text
 product-catalog-system/
 ├── Task1
-│   ├── add_product.php
+│   ├── add\_product.php
 │   ├── database.php
 │   ├── db.sql
 │   ├── functions.php
@@ -53,46 +48,51 @@ product-catalog-system/
 │   ├── featured-product.html
 │   └── featured-product.css
 ├── Screenshots
-│   ├── Product_Catalog.png
-│   ├── New_Product.png
+│   ├── Product\_Catalog.png
+│   ├── New\_Product.png
 │   ├── Validation.png
-│   ├── Product_Added.png
-│   ├── light_mode.png
-│   └── dark_mode.png
+│   ├── Product\_Added.png
+│   ├── light\_mode.png
+│   └── dark\_mode.png
 └── README.md
-````
+
+```
 
 ---
 
 ## 📸 Demo Screenshots
 
 ### Task 1 – Product Catalog
+**Product List**  
+![Product Catalog](Screenshots/Product_Catalog.png)
 
-**Product List** <img src="Screenshots/Product_Catalog.png" alt="Product Catalog" width="600"/>
+**Add Product Form**  
+![Add Product Form](Screenshots/New_Product.png)
 
-**Add Product Form** <img src="Screenshots/New_Product.png" alt="Add Product Form" width="600"/>
+**Form Validation**  
+![Form Validation](Screenshots/Validation.png)
 
-**Form Validation** <img src="Screenshots/Validation.png" alt="Form Validation" width="600"/>
+**Product Added Successfully**  
+![Product Added Successfully](Screenshots/Product_Added.png)
 
-**Product Added Successfully** <img src="Screenshots/Product_Added.png" alt="Product Added Successfully" width="600"/>
+---
 
 ### Task 2 – Featured Product Section
+**Light Mode**  
+![Light Mode](Screenshots/light_mode.png)
 
-**Light Mode** <img src="Screenshots/light_mode.png" alt="Featured Product Light Mode" width="600"/>
-
-**Dark Mode** <img src="Screenshots/dark_mode.png" alt="Featured Product Dark Mode" width="600"/>
+**Dark Mode**  
+![Dark Mode](Screenshots/dark_mode.png)
 
 ---
 
 ## ✍️ Developer
+**Deepa Umesh Savita**  
+🎓 Final Year B.Sc. Computer Science  
+💻 Passionate about Web Development
 
-**Deepa Umesh Savita**
-Final Year B.Sc. Computer Science
-Passionate about Web Development
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github\&style=flat-square)](https://github.com/deepasavita)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github&style=flat-square)](https://github.com/deepasavita)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
 ```
 
 ---
