@@ -57,7 +57,7 @@ A simple web-based project submission for the **Adhyatmik Web Development Intern
 │   ├── light_mode.png
 │   └── dark_mode.png
 └── README.md
-
+---
 
 ---
 
@@ -65,24 +65,23 @@ A simple web-based project submission for the **Adhyatmik Web Development Intern
 
 #### Task 1 – Product Catalog
 **Product List**  
-![Product Catalog](Screenshots/Product_Catalog.png)  
+![Product Catalog](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/Product_Catalog.png)  
 
 **Add Product Form**  
-![Add Product Form](Screenshots/New_Product.png)  
+![Add Product Form](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/New_Product.png)  
 
 **Form Validation**  
-![Form Validation](Screenshots/Validation.png)  
+![Form Validation](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/Validation.png)  
 
 **Product Added Successfully**  
-![Product Added Successfully](Screenshots/Product_Added.png)  
+![Product Added Successfully](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/Product_Added.png)  
 
 #### Task 2 – Featured Product Section
 **Light Mode**  
-![Featured Product Light Mode](Screenshots/light_mode.png)  
+![Featured Product Light Mode](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/light_mode.png)  
 
 **Dark Mode**  
-![Featured Product Dark Mode](Screenshots/dark_mode.png)
-
+![Featured Product Dark Mode](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/dark_mode.png)  
 
 ---
 
@@ -96,6 +95,11 @@ Passionate about Web Development.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
 
 ---
+
+
+
+---
+
 
 
 
