@@ -39,8 +39,6 @@ A simple web-based project submission for the **Adhyatmik Web Development Intern
 
 ## 📂 Project Structure
 
-```
-Internship-Assignment
 ├── Task1
 │   ├── add_product.php
 │   ├── database.php
@@ -52,14 +50,14 @@ Internship-Assignment
 │   ├── featured-product.html
 │   └── featured-product.css
 ├── Screenshots
-│   ├── Product_Catlog.png
+│   ├── Product_Catalog.png
 │   ├── New_Product.png
 │   ├── Validation.png
 │   ├── Product_Added.png
-│   ├── light_mode.png.png
-│   └── dark_mode.png.png
+│   ├── light_mode.png
+│   └── dark_mode.png
 └── README.md
-```
+---
 
 ---
 
@@ -67,39 +65,36 @@ Internship-Assignment
 
 #### Task 1 – Product Catalog
 **Product List**  
-![Product Catalog](Screenshots/Product_Catalog.png)  
+![Product Catalog](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/Product_Catalog.png)  
 
 **Add Product Form**  
-![Add Product Form](Screenshots/New_Product.png)  
+![Add Product Form](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/New_Product.png)  
 
 **Form Validation**  
-![Form Validation](Screenshots/Validation.png)  
+![Form Validation](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/Validation.png)  
 
 **Product Added Successfully**  
-![Product Added Successfully](Screenshots/Product_Added.png)  
-
----
+![Product Added Successfully](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/Product_Added.png)  
 
 #### Task 2 – Featured Product Section
 **Light Mode**  
-![Featured Product Light Mode](Screenshots/light_mode.png)  
+![Featured Product Light Mode](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/light_mode.png)  
 
 **Dark Mode**  
-![Featured Product Dark Mode](Screenshots/dark_mode.png)
-
-
----
+![Featured Product Dark Mode](https://github.com/deepasavita/Internship-Assignment/raw/main/Screenshots/dark_mode.png)  
 
 ---
 
 ## ✍️ Developer
 
-**Deepa Umesh Savita**
-Final Year B.Sc. Computer Science
-Passionate about web Development.
+**Deepa Umesh Savita**  
+Final Year B.Sc. Computer Science  
+Passionate about Web Development.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github\&style=flat-square)](https://github.com/deepasavita)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github&style=flat-square)](https://github.com/deepasavita)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
 
 ---
+
+
 
