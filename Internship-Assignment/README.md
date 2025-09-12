@@ -39,10 +39,9 @@ A simple web-based project submission for the **Adhyatmik Web Development Intern
 
 ## 📂 Project Structure
 
-```
 Internship-Assignment
 ├── Task1
-│   ├── add_product.php
+│   ├── add\_product.php
 │   ├── database.php
 │   ├── db.sql
 │   ├── functions.php
@@ -52,14 +51,13 @@ Internship-Assignment
 │   ├── featured-product.html
 │   └── featured-product.css
 ├── Screenshots
-│   ├── Product_Catlog.png
-│   ├── New_Product.png
+│   ├── Product\_Catalog.png
+│   ├── New\_Product.png
 │   ├── Validation.png
-│   ├── Product_Added.png
-│   ├── light_mode.png.png
-│   └── dark_mode.png.png
+│   ├── Product\_Added.png
+│   ├── light\_mode.png
+│   └── dark\_mode.png
 └── README.md
-```
 
 ---
 
@@ -91,11 +89,17 @@ Internship-Assignment
 
 ## ✍️ Developer
 
-**Deepa Umesh Savita**
-Final Year B.Sc. Computer Science
-Passionate about web Development.
+**Deepa Umesh Savita**  
+Final Year B.Sc. Computer Science  
+Passionate about Web Development.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github\&style=flat-square)](https://github.com/deepasavita)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github&style=flat-square)](https://github.com/deepasavita)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
 
 ---
+
+
+
+
+
+
