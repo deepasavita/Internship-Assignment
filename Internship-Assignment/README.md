@@ -39,9 +39,8 @@ A simple web-based project submission for the **Adhyatmik Web Development Intern
 
 ## 📂 Project Structure
 
-Internship-Assignment
 ├── Task1
-│   ├── add\_product.php
+│   ├── add_product.php
 │   ├── database.php
 │   ├── db.sql
 │   ├── functions.php
@@ -51,13 +50,14 @@ Internship-Assignment
 │   ├── featured-product.html
 │   └── featured-product.css
 ├── Screenshots
-│   ├── Product\_Catalog.png
-│   ├── New\_Product.png
+│   ├── Product_Catalog.png
+│   ├── New_Product.png
 │   ├── Validation.png
-│   ├── Product\_Added.png
-│   ├── light\_mode.png
-│   └── dark\_mode.png
+│   ├── Product_Added.png
+│   ├── light_mode.png
+│   └── dark_mode.png
 └── README.md
+
 
 ---
 
