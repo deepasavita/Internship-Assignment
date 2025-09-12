@@ -65,23 +65,28 @@ Internship-Assignment
 
 ## 📸 Demo Screenshots
 
-### **Task 1 – Product Catalog**
+#### Task 1 – Product Catalog
+**Product List**  
+![Product Catalog](Screenshots/Product_Catalog.png)  
 
-**Product List** <img src="Screenshots/Product_Catlog.png" alt="Product Catalog">
+**Add Product Form**  
+![Add Product Form](Screenshots/New_Product.png)  
 
-**Add Product Form** <img src="Screenshots/New_Product.png" alt="Add Product Form">
+**Form Validation**  
+![Form Validation](Screenshots/Validation.png)  
 
-**Form Validation** <img src="Screenshots/Validation.png" alt="Form Validation">
-
-**Product Added Successfully** <img src="Screenshots/Product_Added.png" alt="Product Added Successfully">
+**Product Added Successfully**  
+![Product Added Successfully](Screenshots/Product_Added.png)  
 
 ---
 
-### **Task 2 – Featured Product Section**
+#### Task 2 – Featured Product Section
+**Light Mode**  
+![Featured Product Light Mode](Screenshots/light_mode.png)  
 
-**Light Mode** <img src="Screenshots/light_mode.png.png" alt="Featured Product Light Mode">
+**Dark Mode**  
+![Featured Product Dark Mode](Screenshots/dark_mode.png)
 
-**Dark Mode** <img src="Screenshots/dark_mode.png.png" alt="Featured Product Dark Mode">
 
 ---
 
@@ -97,3 +102,4 @@ Passionate about web Development.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
 
 ---
+
