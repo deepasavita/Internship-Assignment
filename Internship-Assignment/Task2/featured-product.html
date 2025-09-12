@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Featured Product</title>
+  <!-- IMPORTANT: file name must exactly match style.css -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Featured Product</h1>
+    <button id="darkToggle">🌙 Dark Mode</button>
+  </header>
+
+  <main>
+    <div class="product-card">
+      <div class="img-box">
+        <img src="headphone.jpg" alt="Wireless Headphone">
+        <span class="fav">♡</span>
+      </div>
+      <h2 class="name">Wireless Headphones</h2>
+      <p class="price">₹2,999</p>
+      <button class="buy-btn">Add to Cart</button>
+    </div>
+  </main>
+
+  <script>
+    const toggleBtn = document.getElementById('darkToggle');
+    toggleBtn.addEventListener('click', () => {
+      document.body.classList.toggle('dark');
+      toggleBtn.textContent = document.body.classList.contains('dark')
+        ? '☀️ Light Mode' : '🌙 Dark Mode';
+    });
+  </script>
+</body>
+</html>

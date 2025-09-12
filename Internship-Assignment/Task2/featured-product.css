@@ -1,0 +1,145 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+  padding: 20px;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* Header */
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  margin-bottom: 30px;
+}
+
+.site-header h1 {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+#darkToggle {
+  background: #1e90ff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: background 0.3s;
+}
+
+#darkToggle:hover {
+  background: #0d6efd;
+}
+
+/* Product Card */
+.product-card {
+  background: #fff;
+  border-radius: 12px;
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.img-box {
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.img-box img {
+  width: 100%;
+  display: block;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+
+.product-card:hover .img-box img {
+  transform: scale(1.05);
+}
+
+.fav {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 1.4rem;
+  color: #555;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.fav:hover {
+  color: crimson;
+}
+
+.name {
+  margin: 15px 0 5px;
+  font-size: 1.2rem;
+}
+
+.price {
+  font-weight: bold;
+  color: #2e8b57;
+  margin-bottom: 15px;
+}
+
+.buy-btn {
+  background: #ff9800;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.3s;
+}
+
+.buy-btn:hover {
+  background: #e68900;
+}
+
+/* Dark Mode */
+body.dark {
+  background: #121212;
+  color: #e4e4e4;
+}
+
+body.dark .site-header {
+  background: #1e1e1e;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+
+body.dark .product-card {
+  background: #1e1e1e;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.6);
+}
+
+body.dark #darkToggle {
+  background: #444;
+}
+
+body.dark .price {
+  color: #80ff80;
+}
