@@ -64,19 +64,28 @@ Internship-Assignment
 ---
 
 ## 📸 Demo Screenshots
-### Demo Screenshots
 
 #### Task 1 – Product Catalog
-**Product List** ![Product Catalog](Screenshots/Product_Catalog.png)  
-**Add Product Form** ![Add Product Form](Screenshots/Add_Product_Form.png)  
-**Form Validation** ![Form Validation](Screenshots/Form_Validation.png)  
-**Product Added Successfully** ![Product Added Successfully](Screenshots/Product_Added_Successfully.png)  
+**Product List**  
+![Product Catalog](Screenshots/Product_Catalog.png)  
+
+**Add Product Form**  
+![Add Product Form](Screenshots/New_Product.png)  
+
+**Form Validation**  
+![Form Validation](Screenshots/Validation.png)  
+
+**Product Added Successfully**  
+![Product Added Successfully](Screenshots/Product_Added.png)  
 
 ---
 
 #### Task 2 – Featured Product Section
-**Light Mode** ![Featured Product Light Mode](Screenshots/light_mode.png)  
-**Dark Mode** ![Featured Product Dark Mode](Screenshots/dark_mode.png)
+**Light Mode**  
+![Featured Product Light Mode](Screenshots/light_mode.png)  
+
+**Dark Mode**  
+![Featured Product Dark Mode](Screenshots/dark_mode.png)
 
 ---
 
