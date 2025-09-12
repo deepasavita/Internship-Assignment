@@ -36,7 +36,7 @@ This project demonstrates a PHP/MySQL **Product Catalog** (Backend) and a **Feat
 ## 📂 Project Structure
 ```
 
-product-catalog-system/
+Internship-Assignment
 ├── Task1
 │   ├── add\_product.php
 │   ├── database.php
@@ -95,6 +95,6 @@ product-catalog-system/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
 ```
 
----
+
 
 
