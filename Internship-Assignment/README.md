@@ -76,14 +76,13 @@ Internship-Assignment
 **Product Added Successfully**  
 ![Product Added Successfully](Screenshots/Product_Added.png)  
 
----
-
 #### Task 2 – Featured Product Section
 **Light Mode**  
 ![Featured Product Light Mode](Screenshots/light_mode.png)  
 
 **Dark Mode**  
 ![Featured Product Dark Mode](Screenshots/dark_mode.png)
+
 
 ---
 
