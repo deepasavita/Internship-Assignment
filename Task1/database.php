@@ -2,7 +2,7 @@
 $host = 'localhost';
 $dbname = 'product_catalog';
 $username = 'root';
-$password = ''; // Default XAMPP password is empty
+$password = ''; 
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
