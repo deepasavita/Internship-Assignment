@@ -1,5 +1,5 @@
 ---
-# 🌐 Web Development Internship Assignment – Adhyatmik
+#  Web Development Internship Assignment – Adhyatmik
 
 A web-based project submission for the **Adhyatmik Web Development Internship**.  
 This project demonstrates a PHP/MySQL **Product Catalog** (Backend) and a **Featured Product Section** (Frontend) using HTML/CSS/JS.
@@ -94,6 +94,7 @@ Internship-Assignment
 [![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github&style=flat-square)](https://github.com/deepasavita)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
 ```
+
 
 
 
